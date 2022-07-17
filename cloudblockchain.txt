@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Recent Technologies</title>
+    <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+                <style>
+                    h1{
+                        color: teal;
+                        font-size: 50px;
+                      }
+                </style>
+                    <h1>Blockchain</h1>
+        </div>
+        <style>
+            .slider1{
+    font-size: 20px;
+    color: purple;
+    padding:72px 0px 72px 0px; 
+    width:100%;
+    height:auto;
+    background-color: turquoise;
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    align-items: center;
+}
+        </style>
+        <div class="slider1">
+                <p> A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger. The decentralised database managed by multiple participants is known as Distributed Ledger Technology (DLT).
+                    Blockchain is a type of DLT in which transactions are recorded with an immutable cryptographic signature called a hash.
+                    Blockchain is an emerging technology with many advantages in an increasingly digital world:</p>
+                    <h2 style="color: white;">Highly Secure</h2>
+                    <p>It uses a digital signature feature to conduct fraud-free transactions making it impossible to corrupt or change the data of an individual by the other users without a specific digital signature.</p>
+                    <h2 style="color: white;">Decentralized System</h2>
+                    <p>Conventionally, you need the approval of regulatory authorities like a government or bank for transactions; however, with Blockchain, transactions are done with the mutual consensus of users resulting in smoother, safer, and faster transactions.</p>
+                    <h2 style="color: white;">Automation Capability</h2>
+                    <p>It is programmable and can generate systematic actions, events, and payments automatically when the criteria of the trigger are met.</p>
+        </div>
+        <div class="main">
+            <nav>
+                <style>
+                    h1{
+                        color: teal;
+                        font-size: 50px;
+                      }
+                </style>
+                    <h1>Cloud Computing</h1>
+                  
+                
+            </nav> 
+        <div class="slider1">
+                <p>Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software.</p>
+                <p>Rather than keeping files on a proprietary hard drive or local storage device, cloud-based storage makes it possible to save them to a remote database. As long as an electronic device has access to the web, it has access to the data and the software programs to run it.</p>
+
+                <p>Cloud computing is a popular option for people and businesses for a number of reasons including cost savings, increased productivity, speed and efficiency, performance, and security. </p>
+                <h2 style="color:white">On-Demand Self-Service</h1>
+                <p>It is one of the important and valuable features of Cloud Computing as the user can continuously monitor the server uptime, capabilities, and allotted network storage. With this feature, the user can also monitor the computing capabilities.</p>
+                <h2 style="color:white">Easy Maintenance</h2>
+                <p>The servers are easily maintained and the downtime is very low and even in some cases, there is no downtime. Cloud Computing comes up with an update every time by gradually making it better.</p>
+                <h2 style="color:white">Economical</h2>
+                <p>It is the one-time investment as the company (host) has to buy the storage and a small part of it can be provided to the many companies which save the host from monthly or yearly costs. Only the amount which is spent is on the basic maintenance and a few more expenses which are very less.</p>
+       
+       
+       
+        </div>
+</body>
+</html>
